@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of 2 of Sentinel AI - Monitoramento Profissional",
+  "description": "Sistema de detecção humana inteligente com sensor de movimento e análise multimodal via Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
